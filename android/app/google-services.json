@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623006361795",
+    "project_id": "daldart-40315",
+    "storage_bucket": "daldart-40315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623006361795:android:1ede604ed49de648c65a76",
+        "android_client_info": {
+          "package_name": "com.daldart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWex7IANowC9hN7EhbqrHPfJqsntxxfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
